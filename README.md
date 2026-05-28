@@ -1,35 +1,73 @@
-Molvrix Website
+# Molvrix Website
 
-Official repository for the Molvrix platform and website updates.
+Official public repository for Molvrix website updates, platform documentation, roadmap notes, and release tracking.
 
-About Molvrix
+Live website: https://molvrix.com
 
-Molvrix builds automation systems, AI workflows, and scalable digital solutions for modern founders and businesses.
+---
 
-🌐 https://molvrix.com
+## About Molvrix
 
-Purpose of This Repository
+Molvrix is building AI-powered automation systems, workflow products, and scalable digital tools for creators, founders, students, and modern businesses.
 
-This repository is used to:
+The goal is to make automation easier to understand, easier to use, and more useful for real-world work.
 
-- Publish future website updates
-- Track new features and improvements
-- Share platform overviews
-- Maintain public documentation
-- Store design assets and screenshots
-- Document roadmap progress
+---
 
-Current Focus
+## Purpose of This Repository
 
-- AI-powered workflows
-- Automation systems
-- Digital infrastructure
-- Modern business solutions
+This repository is used to organize and publish:
 
-Upcoming Features
+- Website update notes
+- Feature planning
+- Public roadmap progress
+- Changelog entries
+- Product documentation
+- Design and content decisions
+- Future improvement ideas
 
-Future updates and releases will be documented inside this repository.
+---
 
-Infrastructure
+## Current Focus
 
-Hosted and managed using Hostinger infrastructure.
+- Improving website speed and user experience
+- Strengthening SEO and Google indexing readiness
+- Organizing product pages and user flows
+- Preparing better documentation for visitors
+- Building trust sections such as reviews, FAQs, and update logs
+- Planning future AI automation product features
+
+---
+
+## Planned Repository Structure
+
+```text
+website/
+├── README.md
+├── ROADMAP.md
+├── CHANGELOG.md
+├── docs/
+│   ├── overview.md
+│   ├── product-pages.md
+│   └── deployment-notes.md
+└── .github/
+    └── ISSUE_TEMPLATE/
+```
+
+---
+
+## Roadmap
+
+The public roadmap is maintained in ROADMAP.md.
+
+---
+
+## Changelog
+
+Website and platform updates are tracked in CHANGELOG.md.
+
+---
+
+## Vision
+
+Molvrix is being built as a long-term AI automation and digital tools platform that helps people build, grow, and automate smarter.
